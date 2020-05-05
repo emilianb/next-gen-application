@@ -1,0 +1,29 @@
+{
+  "name": "@next-gen-application/avatar",
+  "version": "1.0.0",
+  "description": "Avatar",
+  "author": "emilianb <emilian.balanescu@gmail.com>",
+  "homepage": "https://github.com/emilianb/next-gen-application#readme",
+  "license": "MIT",
+  "main": "lib/avatar.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianb/next-gen-application.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/emilianb/next-gen-application/issues"
+  }
+}
